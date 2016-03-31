@@ -1,6 +1,6 @@
 {
   "name": "mantis-equalizr",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A small set of useful rules to complement resets and normalizers",
   "main": "index.js",
   "scripts": {
