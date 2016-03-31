@@ -1,0 +1,23 @@
+{
+  "name": "mantis-equalizr",
+  "version": "0.1.0",
+  "description": "A small set of useful rules to complement resets and normalizers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mantis-stack/mantis-equalizr.git"
+  },
+  "keywords": [
+    "stylus",
+    "css3"
+  ],
+  "author": "Acauã Montiel <contato@acauamontiel.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mantis-stack/mantis-equalizr/issues"
+  },
+  "homepage": "https://github.com/mantis-stack/mantis-equalizr"
+}
