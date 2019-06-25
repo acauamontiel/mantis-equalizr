@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mantis-stack/mantis-equalizr.git"
+    "url": "git@github.com:acauamontiel/mantis-equalizr.git"
   },
   "keywords": [
     "stylus",
@@ -17,7 +17,7 @@
   "author": "Acauã Montiel <contato@acauamontiel.com.br>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mantis-stack/mantis-equalizr/issues"
+    "url": "https://github.com/acauamontiel/mantis-equalizr/issues"
   },
-  "homepage": "https://github.com/mantis-stack/mantis-equalizr"
+  "homepage": "https://github.com/acauamontiel/mantis-equalizr"
 }
